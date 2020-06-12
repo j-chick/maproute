@@ -1,0 +1,68 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      104.0.0.0 - 104.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2011-02
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       104.64.0.0 - 104.127.255.255
+CIDR:           104.64.0.0/10
+NetName:        AKAMAI
+NetHandle:      NET-104-64-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Akamai Technologies, Inc. (AKAMAI)
+RegDate:        2014-04-22
+Updated:        2014-04-22
+Ref:            https://rdap.arin.net/registry/ip/104.64.0.0
+
+
+
+OrgName:        Akamai Technologies, Inc.
+OrgId:          AKAMAI
+Address:        150 Broadway
+City:           Cambridge
+StateProv:      MA
+PostalCode:     02142
+Country:        US
+RegDate:        1999-01-21
+Updated:        2019-05-29
+Ref:            https://rdap.arin.net/registry/entity/AKAMAI
+
+
+OrgTechHandle: SJS98-ARIN
+OrgTechName:   Schecter, Steven Jay
+OrgTechPhone:  +1-617-274-7134 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/SJS98-ARIN
+
+OrgTechHandle: YKS-ARIN
+OrgTechName:   Yeung, Kam Sze 
+OrgTechPhone:  +852-92813828 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/YKS-ARIN
+
+OrgAbuseHandle: NUS-ARIN
+OrgAbuseName:   NOC United States
+OrgAbusePhone:  +1-617-444-2535 
+OrgAbuseEmail:  abuse@akamai.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/NUS-ARIN
+
+OrgTechHandle: IPADM11-ARIN
+OrgTechName:   ipadmin
+OrgTechPhone:  +1-617-444-0017 
+OrgTechEmail:  ip-admin@akamai.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPADM11-ARIN
+
+

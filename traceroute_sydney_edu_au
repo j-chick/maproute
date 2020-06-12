@@ -1,0 +1,13 @@
+ 1  192.168.1.1 (192.168.1.1)  3.724 ms  6.837 ms  1.851 ms
+ 2  static-50-53-152-1.bvtn.or.frontiernet.net (50.53.152.1)  10.237 ms  8.980 ms  15.405 ms
+ 3  ge-2-1-2---0.car01.tgrd.or.nwestnet.net (50.46.177.146)  16.809 ms  9.467 ms  9.956 ms
+ 4  ae2---0.cor02.bvtn.or.nwestnet.net (50.46.176.48)  9.912 ms  9.503 ms  9.511 ms
+ 5  cr2-bvtnorxb-a-be100.bb.as20055.net (204.194.220.5)  9.737 ms  9.546 ms  14.653 ms
+ 6  cr2-sttlwawb-b-be12.bb.as20055.net (107.191.236.64)  14.995 ms  14.192 ms  20.333 ms
+ 7  gigabitethernet3-0.bb1.b.sea.aarnet.net.au (206.81.80.112)  25.372 ms  38.317 ms  30.775 ms
+ 8  xe-0-2-1.pe1.bkvl.nsw.aarnet.net.au (202.158.194.120)  268.079 ms  207.434 ms  204.869 ms
+ 9  et-3-1-0.pe1.brwy.nsw.aarnet.net.au (113.197.15.146)  208.487 ms  191.860 ms  513.157 ms
+10  gw1.vl216.ae11.pe1.brwy-pe1.aarnet.net.au (138.44.5.47)  306.995 ms  306.521 ms  414.778 ms
+11  * * *
+12  * * *
+13  uat-scilearn.sydney.edu.au (129.78.5.8)  212.835 ms  198.152 ms  203.976 ms

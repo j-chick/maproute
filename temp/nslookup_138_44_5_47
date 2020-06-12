@@ -1,0 +1,185 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      138.0.0.0 - 138.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       138.44.0.0 - 138.44.255.255
+CIDR:           138.44.0.0/16
+NetName:        APNIC-ERX-138-44-0-0
+NetHandle:      NET-138-44-0-0-1
+Parent:         NET138 (NET-138-0-0-0-0)
+NetType:        Early Registrations, Transferred to APNIC
+OriginAS:       
+Organization:   Asia Pacific Network Information Centre (APNIC)
+RegDate:        2003-12-11
+Updated:        2009-10-08
+Comment:        This IP address range is not registered in the ARIN database.
+Comment:        This range was transferred to the APNIC Whois Database as
+Comment:        part of the ERX (Early Registration Transfer) project.
+Comment:        For details, refer to the APNIC Whois Database via
+Comment:        WHOIS.APNIC.NET or http://wq.apnic.net/apnic-bin/whois.pl
+Comment:        
+Comment:        ** IMPORTANT NOTE: APNIC is the Regional Internet Registry
+Comment:        for the Asia Pacific region.  APNIC does not operate networks
+Comment:        using this IP address range and is not able to investigate
+Comment:        spam or abuse reports relating to these addresses.  For more
+Comment:        help, refer to http://www.apnic.net/apnic-info/whois_search2/abuse-and-spamming
+Ref:            https://rdap.arin.net/registry/ip/138.44.0.0
+
+ResourceLink:  http://wq.apnic.net/whois-search/static/search.html
+ResourceLink:  whois.apnic.net
+
+
+OrgName:        Asia Pacific Network Information Centre
+OrgId:          APNIC
+Address:        PO Box 3646
+City:           South Brisbane
+StateProv:      QLD
+PostalCode:     4101
+Country:        AU
+RegDate:        
+Updated:        2012-01-24
+Ref:            https://rdap.arin.net/registry/entity/APNIC
+
+ReferralServer:  whois://whois.apnic.net
+ResourceLink:  http://wq.apnic.net/whois-search/static/search.html
+
+OrgTechHandle: AWC12-ARIN
+OrgTechName:   APNIC Whois Contact
+OrgTechPhone:  +61 7 3858 3188 
+OrgTechEmail:  search-apnic-not-arin@apnic.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/AWC12-ARIN
+
+OrgAbuseHandle: AWC12-ARIN
+OrgAbuseName:   APNIC Whois Contact
+OrgAbusePhone:  +61 7 3858 3188 
+OrgAbuseEmail:  search-apnic-not-arin@apnic.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AWC12-ARIN
+
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '138.44.0.0 - 138.44.255.255'
+
+% Abuse contact for '138.44.0.0 - 138.44.255.255' is 'abuse@aarnet.edu.au'
+
+inetnum:        138.44.0.0 - 138.44.255.255
+netname:        AARNET
+descr:          Australian Academic and Research Network
+descr:          Building 9
+descr:          Banks Street
+country:        AU
+org:            ORG-AAAR1-AP
+admin-c:        SM6-AP
+tech-c:         ANOC-AP
+notify:         irrcontact@aarnet.edu.au
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AARNET-AP
+mnt-routes:     MAINT-AARNET-AP
+mnt-irt:        IRT-AARNET-AU
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+last-modified:  2017-10-09T13:02:43Z
+source:         APNIC
+
+irt:            IRT-AARNET-AU
+address:        AARNet Pty Ltd
+address:        26 Dick Perry Avenue
+address:        Kensington, Western Australia
+address:        Australia
+e-mail:         abuse@aarnet.edu.au
+abuse-mailbox:  abuse@aarnet.edu.au
+admin-c:        SM6-AP
+tech-c:         ANOC-AP
+auth:           # Filtered
+remarks:        abuse@aarnet.edu.au was validated on 2019-12-03
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2019-12-03T21:30:31Z
+source:         APNIC
+
+organisation:   ORG-AAAR1-AP
+org-name:       Australian Academic and Research Network
+country:        AU
+address:        Building 9
+address:        Banks Street
+phone:          +61-2-6222-3530
+fax-no:         +61-2-6222-3535
+e-mail:         irrcontact@aarnet.edu.au
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-10-09T12:56:36Z
+source:         APNIC
+
+role:           AARNet Network Operations Centre
+remarks:
+address:        AARNet Pty Ltd
+address:        GPO Box 1559
+address:        Canberra
+address:        ACT  2601
+country:        AU
+phone:          +61 1300 275 662
+phone:          +61 2 6222 3555
+remarks:
+e-mail:         noc@aarnet.edu.au
+remarks:
+remarks:        Send abuse reports to abuse@aarnet.edu.au
+remarks:        Please include timestamps and offset to UTC in logs
+remarks:        Peering requests to peering@aarnet.edu.au
+remarks:
+admin-c:        SM6-AP
+tech-c:         BM-AP
+nic-hdl:        ANOC-AP
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2010-06-30T13:16:48Z
+source:         APNIC
+
+person:         Steve Maddocks
+remarks:        Director Operations
+address:        AARNet Pty Ltd
+address:        26 Dick Perry Avenue
+address:        Kensington
+address:        Perth
+address:        WA  6151
+country:        AU
+phone:          +61-8-9289-2210
+fax-no:         +61-2-6222-7509
+e-mail:         steve.maddocks@aarnet.edu.au
+nic-hdl:        SM6-AP
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2011-02-01T08:37:06Z
+source:         APNIC
+
+% Information related to '138.44.5.0/24AS7575'
+
+route:          138.44.5.0/24
+origin:         AS7575
+descr:          Australian Academic and Research Network
+                Building 9
+                Banks Street
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2019-04-03T03:55:51Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-SNAPSHOT (WHOIS-US3)
+
+

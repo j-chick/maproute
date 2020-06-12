@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      204.0.0.0 - 204.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      1994-03
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       204.194.220.0 - 204.194.221.255
+CIDR:           204.194.220.0/23
+NetName:        WHOLESAIL-IPV4-2
+NetHandle:      NET-204-194-220-0-1
+Parent:         NET204 (NET-204-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS20055
+Organization:   Wholesail networks LLC (WNL-35)
+RegDate:        2019-06-10
+Updated:        2019-06-10
+Ref:            https://rdap.arin.net/registry/ip/204.194.220.0
+
+
+OrgName:        Wholesail networks LLC
+OrgId:          WNL-35
+Address:        901 Pitcher Street
+City:           Yakima
+StateProv:      WA
+PostalCode:     98901
+Country:        US
+RegDate:        2018-12-03
+Updated:        2020-05-02
+Ref:            https://rdap.arin.net/registry/entity/WNL-35
+
+
+OrgDNSHandle: WNN4-ARIN
+OrgDNSName:   Wholesail Networks NOC
+OrgDNSPhone:  +1-800-800-5347 
+OrgDNSEmail:  noc@wholesailnetworks.com
+OrgDNSRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+OrgAbuseHandle: WNA12-ARIN
+OrgAbuseName:   Wholesail Networks Abuse
+OrgAbusePhone:  +1-206-777-7779 
+OrgAbuseEmail:  abuse@wholesailnetworks.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/WNA12-ARIN
+
+OrgRoutingHandle: WNN4-ARIN
+OrgRoutingName:   Wholesail Networks NOC
+OrgRoutingPhone:  +1-800-800-5347 
+OrgRoutingEmail:  noc@wholesailnetworks.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+OrgNOCHandle: WNN4-ARIN
+OrgNOCName:   Wholesail Networks NOC
+OrgNOCPhone:  +1-800-800-5347 
+OrgNOCEmail:  noc@wholesailnetworks.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+OrgTechHandle: WNN4-ARIN
+OrgTechName:   Wholesail Networks NOC
+OrgTechPhone:  +1-800-800-5347 
+OrgTechEmail:  noc@wholesailnetworks.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+

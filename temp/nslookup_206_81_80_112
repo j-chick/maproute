@@ -1,0 +1,73 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      206.0.0.0 - 206.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      1995-04
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       206.81.80.0 - 206.81.83.255
+CIDR:           206.81.80.0/22
+NetName:        SEATTLEIX-V4
+NetHandle:      NET-206-81-80-0-1
+Parent:         NET206 (NET-206-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Seattle Internet Exchange (SEATT-11)
+RegDate:        2009-02-12
+Updated:        2012-03-20
+Ref:            https://rdap.arin.net/registry/ip/206.81.80.0
+
+
+OrgName:        Seattle Internet Exchange
+OrgId:          SEATT-11
+Address:        1700 7th Ave Ste 116 PMB #400
+City:           Seattle
+StateProv:      WA
+PostalCode:     98101-1323
+Country:        US
+RegDate:        2009-01-29
+Updated:        2016-12-30
+Ref:            https://rdap.arin.net/registry/entity/SEATT-11
+
+
+OrgAbuseHandle: SIXHO-ARIN
+OrgAbuseName:   SIX Hostmaster
+OrgAbusePhone:  +1-206-367-4320 
+OrgAbuseEmail:  hostmaster@seattleix.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/SIXHO-ARIN
+
+OrgTechHandle: SIXHO-ARIN
+OrgTechName:   SIX Hostmaster
+OrgTechPhone:  +1-206-367-4320 
+OrgTechEmail:  hostmaster@seattleix.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/SIXHO-ARIN
+
+RAbuseHandle: SIXHO-ARIN
+RAbuseName:   SIX Hostmaster
+RAbusePhone:  +1-206-367-4320 
+RAbuseEmail:  hostmaster@seattleix.net
+RAbuseRef:    https://rdap.arin.net/registry/entity/SIXHO-ARIN
+
+RNOCHandle: SIXHO-ARIN
+RNOCName:   SIX Hostmaster
+RNOCPhone:  +1-206-367-4320 
+RNOCEmail:  hostmaster@seattleix.net
+RNOCRef:    https://rdap.arin.net/registry/entity/SIXHO-ARIN
+
+RTechHandle: SIXHO-ARIN
+RTechName:   SIX Hostmaster
+RTechPhone:  +1-206-367-4320 
+RTechEmail:  hostmaster@seattleix.net
+RTechRef:    https://rdap.arin.net/registry/entity/SIXHO-ARIN
+
+

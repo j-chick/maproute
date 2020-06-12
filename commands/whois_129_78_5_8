@@ -1,0 +1,133 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      129.0.0.0 - 129.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       129.78.0.0 - 129.78.255.255
+CIDR:           129.78.0.0/16
+NetName:        AP-ERX-129-78-0-0
+NetHandle:      NET-129-78-0-0-1
+Parent:         NET129 (NET-129-0-0-0-0)
+NetType:        Early Registrations, Transferred to APNIC
+OriginAS:       
+Organization:   Asia Pacific Network Information Centre (APNIC)
+RegDate:        2003-01-10
+Updated:        2018-02-02
+Comment:        This IP address range is not registered in the ARIN database. This range was transferred to the APNIC Whois Database as part of the ERX (Early Registration Transfer) project. For details, refer to the APNIC Whois Database via WHOIS.APNIC.NET or http://wq.apnic.net/apnic-bin/whois.pl ** IMPORTANT NOTE: APNIC is the Regional Internet Registry for the Asia Pacific region. APNIC does not operate networks using this IP address range and is not able to investigate spam or abuse reports relating to these addresses. For more help, refer to http://www.apnic.net/apnic-info/whois_search2/abuse-and-spamming
+Ref:            https://rdap.arin.net/registry/ip/129.78.0.0
+
+ResourceLink:  http://wq.apnic.net/whois-search/static/search.html
+ResourceLink:  whois.apnic.net
+
+
+OrgName:        Asia Pacific Network Information Centre
+OrgId:          APNIC
+Address:        PO Box 3646
+City:           South Brisbane
+StateProv:      QLD
+PostalCode:     4101
+Country:        AU
+RegDate:        
+Updated:        2012-01-24
+Ref:            https://rdap.arin.net/registry/entity/APNIC
+
+ReferralServer:  whois://whois.apnic.net
+ResourceLink:  http://wq.apnic.net/whois-search/static/search.html
+
+OrgAbuseHandle: AWC12-ARIN
+OrgAbuseName:   APNIC Whois Contact
+OrgAbusePhone:  +61 7 3858 3188 
+OrgAbuseEmail:  search-apnic-not-arin@apnic.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AWC12-ARIN
+
+OrgTechHandle: AWC12-ARIN
+OrgTechName:   APNIC Whois Contact
+OrgTechPhone:  +61 7 3858 3188 
+OrgTechEmail:  search-apnic-not-arin@apnic.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/AWC12-ARIN
+
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '129.78.0.0 - 129.78.255.255'
+
+% Abuse contact for '129.78.0.0 - 129.78.255.255' is 'abuse@sydney.edu.au'
+
+inetnum:        129.78.0.0 - 129.78.255.255
+netname:        UNISYD-AU
+descr:          University of Sydney
+country:        AU
+org:            ORG-UOS1-AP
+admin-c:        UOSN1-AP
+tech-c:         UOSN1-AP
+status:         ALLOCATED PORTABLE
+remarks:        This object was transferred from ARIN database
+remarks:        on 11 December 2002
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-UNIVERSITYOFSYDNEY
+mnt-lower:      MAINT-AU-UNIVERSITYOFSYDNEY
+mnt-irt:        IRT-UNIVERSITYOFSYDNEY-AU
+last-modified:  2020-01-09T13:07:24Z
+source:         APNIC
+
+irt:            IRT-UNIVERSITYOFSYDNEY-AU
+address:        Building G17, 316 Abercrombie Street,
+address:        Darlington, NSW 2006
+address:        AU
+phone:          +61286277898
+e-mail:         krishnan.rajendran@sydney.edu.au
+abuse-mailbox:  abuse@sydney.edu.au
+admin-c:        UOSN1-AP
+tech-c:         UOSN1-AP
+auth:           # Filtered
+remarks:        krishnan.rajendran@sydney.edu.au was validated on 2020-03-18
+remarks:        abuse@sydney.edu.au was validated on 2020-04-14
+irt-nfy:        krishnan.rajendran@sydney.edu.au
+mnt-by:         MAINT-AU-UNIVERSITYOFSYDNEY
+last-modified:  2020-04-14T03:35:35Z
+source:         APNIC
+
+organisation:   ORG-UOS1-AP
+org-name:       University of Sydney
+country:        AU
+address:        University of Sydney
+phone:          +61-2-8627-7898
+fax-no:         +61-2-8627-7899
+e-mail:         ICT-CNS@sydney.edu.au
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2020-01-09T12:58:57Z
+source:         APNIC
+
+role:           University of Sydney - network administrator
+address:        Building G17, 316 Abercrombie Street,
+address:        Darlington, NSW 2006
+country:        AU
+phone:          +61286277898
+fax-no:         +61286277899
+e-mail:         krishnan.rajendran@sydney.edu.au
+admin-c:        UOSN1-AP
+tech-c:         UOSN1-AP
+nic-hdl:        UOSN1-AP
+mnt-by:         MAINT-AU-UNIVERSITYOFSYDNEY
+last-modified:  2012-09-06T01:40:10Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-SNAPSHOT (WHOIS-US4)
+
+

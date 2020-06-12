@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      50.0.0.0 - 50.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2010-02
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       50.45.128.0 - 50.47.255.255
+CIDR:           50.46.0.0/15, 50.45.128.0/17
+NetName:        ZIPLY-FIBER-IPV4-8
+NetHandle:      NET-50-45-128-0-2
+Parent:         NET50 (NET-50-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS20055
+Organization:   Ziply Fiber (NFL-79)
+RegDate:        2010-09-24
+Updated:        2020-05-11
+Ref:            https://rdap.arin.net/registry/ip/50.45.128.0
+
+
+OrgName:        Ziply Fiber
+OrgId:          NFL-79
+Address:        135 Lake Street South
+Address:        Suite 1000
+City:           Kirkland
+StateProv:      WA
+PostalCode:     98033
+Country:        US
+RegDate:        2019-08-06
+Updated:        2020-05-08
+Ref:            https://rdap.arin.net/registry/entity/NFL-79
+
+
+OrgDNSHandle: WNN4-ARIN
+OrgDNSName:   Wholesail Networks NOC
+OrgDNSPhone:  +1-800-800-5347 
+OrgDNSEmail:  noc@wholesailnetworks.com
+OrgDNSRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+OrgNOCHandle: WNN4-ARIN
+OrgNOCName:   Wholesail Networks NOC
+OrgNOCPhone:  +1-800-800-5347 
+OrgNOCEmail:  noc@wholesailnetworks.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+OrgAbuseHandle: AAN79-ARIN
+OrgAbuseName:   Abuse at NWFiber
+OrgAbusePhone:  +1-972-908-4105 
+OrgAbuseEmail:  abuse@nwestnet.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/AAN79-ARIN
+
+OrgRoutingHandle: WNN4-ARIN
+OrgRoutingName:   Wholesail Networks NOC
+OrgRoutingPhone:  +1-800-800-5347 
+OrgRoutingEmail:  noc@wholesailnetworks.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+OrgTechHandle: WNN4-ARIN
+OrgTechName:   Wholesail Networks NOC
+OrgTechPhone:  +1-800-800-5347 
+OrgTechEmail:  noc@wholesailnetworks.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/WNN4-ARIN
+
+

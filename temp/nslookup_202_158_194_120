@@ -1,0 +1,114 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      202.0.0.0 - 202.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.158.192.0 - 202.158.223.255'
+
+% Abuse contact for '202.158.192.0 - 202.158.223.255' is 'abuse@aarnet.edu.au'
+
+inetnum:        202.158.192.0 - 202.158.223.255
+netname:        AARNET
+descr:          Australian Academic and Research Network
+descr:          Canberra
+country:        AU
+org:            ORG-AAAR1-AP
+admin-c:        SM6-AP
+tech-c:         ANOC-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AARNET-AP
+mnt-irt:        IRT-AARNET-AU
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2017-10-09T13:02:45Z
+source:         APNIC
+
+irt:            IRT-AARNET-AU
+address:        AARNet Pty Ltd
+address:        26 Dick Perry Avenue
+address:        Kensington, Western Australia
+address:        Australia
+e-mail:         abuse@aarnet.edu.au
+abuse-mailbox:  abuse@aarnet.edu.au
+admin-c:        SM6-AP
+tech-c:         ANOC-AP
+auth:           # Filtered
+remarks:        abuse@aarnet.edu.au was validated on 2019-12-03
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2019-12-03T21:30:31Z
+source:         APNIC
+
+organisation:   ORG-AAAR1-AP
+org-name:       Australian Academic and Research Network
+country:        AU
+address:        Building 9
+address:        Banks Street
+phone:          +61-2-6222-3530
+fax-no:         +61-2-6222-3535
+e-mail:         irrcontact@aarnet.edu.au
+mnt-ref:        APNIC-HM
+mnt-by:         APNIC-HM
+last-modified:  2017-10-09T12:56:36Z
+source:         APNIC
+
+role:           AARNet Network Operations Centre
+remarks:
+address:        AARNet Pty Ltd
+address:        GPO Box 1559
+address:        Canberra
+address:        ACT  2601
+country:        AU
+phone:          +61 1300 275 662
+phone:          +61 2 6222 3555
+remarks:
+e-mail:         noc@aarnet.edu.au
+remarks:
+remarks:        Send abuse reports to abuse@aarnet.edu.au
+remarks:        Please include timestamps and offset to UTC in logs
+remarks:        Peering requests to peering@aarnet.edu.au
+remarks:
+admin-c:        SM6-AP
+tech-c:         BM-AP
+nic-hdl:        ANOC-AP
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2010-06-30T13:16:48Z
+source:         APNIC
+
+person:         Steve Maddocks
+remarks:        Director Operations
+address:        AARNet Pty Ltd
+address:        26 Dick Perry Avenue
+address:        Kensington
+address:        Perth
+address:        WA  6151
+country:        AU
+phone:          +61-8-9289-2210
+fax-no:         +61-2-6222-7509
+e-mail:         steve.maddocks@aarnet.edu.au
+nic-hdl:        SM6-AP
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2011-02-01T08:37:06Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-SNAPSHOT (WHOIS-US3)
+
+

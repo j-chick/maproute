@@ -1,0 +1,80 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.apnic.net
+
+inetnum:      113.0.0.0 - 113.255.255.255
+organisation: APNIC
+status:       ALLOCATED
+
+whois:        whois.apnic.net
+
+changed:      2008-05
+source:       IANA
+
+# whois.apnic.net
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.197.15.0 - 113.197.15.255'
+
+% Abuse contact for '113.197.15.0 - 113.197.15.255' is 'abuse@aarnet.edu.au'
+
+inetnum:        113.197.15.0 - 113.197.15.255
+netname:        IIPC
+descr:          Customer Connection Network
+country:        AU
+admin-c:        ANOC-AP
+tech-c:         ANOC-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        AARNet customer network
+mnt-by:         MAINT-AARNET-AP
+mnt-lower:      MAINT-AARNET-AP
+mnt-routes:     MAINT-AARNET-AP
+mnt-irt:        IRT-AARNET-AU
+last-modified:  2011-10-20T08:36:39Z
+source:         APNIC
+
+irt:            IRT-AARNET-AU
+address:        AARNet Pty Ltd
+address:        26 Dick Perry Avenue
+address:        Kensington, Western Australia
+address:        Australia
+e-mail:         abuse@aarnet.edu.au
+abuse-mailbox:  abuse@aarnet.edu.au
+admin-c:        SM6-AP
+tech-c:         ANOC-AP
+auth:           # Filtered
+remarks:        abuse@aarnet.edu.au was validated on 2019-12-03
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2019-12-03T21:30:31Z
+source:         APNIC
+
+role:           AARNet Network Operations Centre
+remarks:
+address:        AARNet Pty Ltd
+address:        GPO Box 1559
+address:        Canberra
+address:        ACT  2601
+country:        AU
+phone:          +61 1300 275 662
+phone:          +61 2 6222 3555
+remarks:
+e-mail:         noc@aarnet.edu.au
+remarks:
+remarks:        Send abuse reports to abuse@aarnet.edu.au
+remarks:        Please include timestamps and offset to UTC in logs
+remarks:        Peering requests to peering@aarnet.edu.au
+remarks:
+admin-c:        SM6-AP
+tech-c:         BM-AP
+nic-hdl:        ANOC-AP
+mnt-by:         MAINT-AARNET-AP
+last-modified:  2010-06-30T13:16:48Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-SNAPSHOT (WHOIS-US4)
+
+

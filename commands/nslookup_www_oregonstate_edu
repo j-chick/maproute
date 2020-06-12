@@ -1,0 +1,8 @@
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+www.oregonstate.edu	canonical name = www.orst.edu.
+Name:	www.orst.edu
+Address: 128.193.4.112
+

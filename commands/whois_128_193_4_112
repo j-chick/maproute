@@ -1,0 +1,86 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      128.0.0.0 - 128.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       128.193.0.0 - 128.193.255.255
+CIDR:           128.193.0.0/16
+NetName:        ORST
+NetHandle:      NET-128-193-0-0-1
+Parent:         NET128 (NET-128-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       AS4201
+Organization:   Oregon State University (OSU-3)
+RegDate:        1987-01-16
+Updated:        2011-05-12
+Ref:            https://rdap.arin.net/registry/ip/128.193.0.0
+
+
+OrgName:        Oregon State University
+OrgId:          OSU-3
+Address:        Network Services
+Address:        Kerr Administration Bldg
+City:           Corvallis
+StateProv:      OR
+PostalCode:     97331
+Country:        US
+RegDate:        1987-01-16
+Updated:        2020-04-13
+Ref:            https://rdap.arin.net/registry/entity/OSU-3
+
+
+OrgAbuseHandle: BROCK9-ARIN
+OrgAbuseName:   Brock, Anthony 
+OrgAbusePhone:  +1-541-737-9607 
+OrgAbuseEmail:  anthony.brock@oregonstate.edu
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/BROCK9-ARIN
+
+OrgTechHandle: HOSTM1272-ARIN
+OrgTechName:   Hostmaster
+OrgTechPhone:  +1-541-737-4948 
+OrgTechEmail:  Hostmaster@oregonstate.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/HOSTM1272-ARIN
+
+OrgAbuseHandle: HOSTM1272-ARIN
+OrgAbuseName:   Hostmaster
+OrgAbusePhone:  +1-541-737-4948 
+OrgAbuseEmail:  Hostmaster@oregonstate.edu
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/HOSTM1272-ARIN
+
+OrgTechHandle: BROCK9-ARIN
+OrgTechName:   Brock, Anthony 
+OrgTechPhone:  +1-541-737-9607 
+OrgTechEmail:  anthony.brock@oregonstate.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/BROCK9-ARIN
+
+RTechHandle: HOSTM1272-ARIN
+RTechName:   Hostmaster
+RTechPhone:  +1-541-737-4948 
+RTechEmail:  Hostmaster@oregonstate.edu
+RTechRef:    https://rdap.arin.net/registry/entity/HOSTM1272-ARIN
+
+RTechHandle: BROCK9-ARIN
+RTechName:   Brock, Anthony 
+RTechPhone:  +1-541-737-9607 
+RTechEmail:  anthony.brock@oregonstate.edu
+RTechRef:    https://rdap.arin.net/registry/entity/BROCK9-ARIN
+
+RAbuseHandle: ABUSE74-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-541-737-9800 
+RAbuseEmail:  abuse@oregonstate.edu
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE74-ARIN
+
+
